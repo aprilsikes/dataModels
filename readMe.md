@@ -1,4 +1,6 @@
-
+Screen Shot 2016-02-06 at 10.10.36 PM.png
+Screen Shot 2016-02-06 at 10.10.48 PM.png
+Screen Shot 2016-02-06 at 10.19.48 PM.png
 
 # Data Modeling and Normalization
 
