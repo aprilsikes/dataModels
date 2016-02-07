@@ -1,3 +1,5 @@
+
+
 # Data Modeling and Normalization
 
 Through these exercises you should be able to Normalize data using first, second and third norm form
